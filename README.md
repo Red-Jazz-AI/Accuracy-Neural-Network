@@ -1,5 +1,5 @@
 #  Accuracy Neural Network AI
-Simple Project that sends back the accuracy of the ai after training it.
+Simple Project that sends back the accuracy of the AI after training it.
 This project holds 2 main files
 * __CNN__
 * __SNN__
@@ -7,6 +7,10 @@ This project holds 2 main files
 ## Convolutional
 
 __CNN__ A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes, and categories
+
+![Formula for CNN](https://user-images.githubusercontent.com/77110462/228610008-5dadf4ff-4924-4b5c-ab06-3e08a82b1423.png)
+
+
 
 ## Simple
 __SNN__ Neural networks can help computers make intelligent decisions with limited human assistance. This is because they can learn and model the relationships between input and output data that are nonlinear and complex.
@@ -47,3 +51,19 @@ Got 9724 / 10000 with accuarcy 97.24
 
 The only thing i recommend for begineers to play around with is the
 `num_epochs` variable, increase/decrease and it will affect the accuracy  
+
+
+# Comparing Results
+
+## Convolutional
+* Number of epochs: *4*
+* Time spent: *40 seconds*
+* Training Data Accuracy: *98.57*
+* Test Data Accuracy: *98.25*
+
+## Simple
+* Number of epochs: *4*
+* Time spent: *37.5 seconds*
+* Training Data Accuracy: *96.74*
+* Test Data Accuracy: *96.13*
+
