@@ -17,6 +17,20 @@ Here is the Formula for a Convolutional Neural Network
 ## Simple
 __SNN__ Neural networks can help computers make intelligent decisions with limited human assistance. This is because they can learn and model the relationships between input and output data that are nonlinear and complex.
 
+# Comparing Results
+
+## Convolutional
+* Number of epochs: __4__
+* Time spent: __40 seconds__
+* Training Data Accuracy: __98.57__
+* Test Data Accuracy: __98.25__
+
+## Simple
+* Number of epochs: __4__
+* Time spent: __37.5 seconds__
+* Training Data Accuracy: __96.74__
+* Test Data Accuracy: __96.13__
+
 # PyTorch
 PyTorch is a fully featured framework for building deep learning models,
 which is a type of machine learning that's commonly used in applications like image recognition and language processing.
@@ -55,17 +69,5 @@ The only thing i recommend for beginners to play around with is the
 `num_epochs` variable, increase/decrease and it will affect the accuracy  
 
 
-# Comparing Results
 
-## Convolutional
-* Number of epochs: __4__
-* Time spent: __40 seconds__
-* Training Data Accuracy: __98.57__
-* Test Data Accuracy: __98.25__
-
-## Simple
-* Number of epochs: __4__
-* Time spent: __37.5 seconds__
-* Training Data Accuracy: __96.74__
-* Test Data Accuracy: __96.13__
 
