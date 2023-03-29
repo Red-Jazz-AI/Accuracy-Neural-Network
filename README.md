@@ -47,7 +47,7 @@ just run this command to run the file
 ```bash
 py __SNN__.py
 ```
-or if you want to use the Convolutional Nerual Network
+or if you want to use the Convolutional Neural Network
 ```bash
 py __CNN__.py
 ```
