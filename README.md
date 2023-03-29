@@ -1,5 +1,15 @@
 #  Accuracy Neural Network AI
 Simple Project that sends back the accuracy of the ai after training it.
+This project holds 2 main files
+* __CNN__
+* __SNN__
+
+## Convolutional
+
+__CNN__ A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes, and categories
+
+## Simple
+__SNN__ Neural networks can help computers make intelligent decisions with limited human assistance. This is because they can learn and model the relationships between input and output data that are nonlinear and complex.
 
 # PyTorch
 PyTorch is a fully featured framework for building deep learning models,
@@ -15,7 +25,11 @@ Written in Python, it's relatively easy for most machine learning developers to 
 not complicated and requires no setup.
 just run this command to run the file
 ```bash
-py main.py
+py __SNN__.py
+```
+or if you want to use the Convolutional Nerual Network
+```bash
+py __CNN__.py
 ```
 
 # Expected Results
