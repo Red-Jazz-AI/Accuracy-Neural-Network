@@ -51,21 +51,21 @@ Got 9724 / 10000 with accuarcy 97.24
 
 # Modifications
 
-The only thing i recommend for begineers to play around with is the
+The only thing i recommend for beginners to play around with is the
 `num_epochs` variable, increase/decrease and it will affect the accuracy  
 
 
 # Comparing Results
 
 ## Convolutional
-* Number of epochs: *4*
-* Time spent: *40 seconds*
-* Training Data Accuracy: *98.57*
-* Test Data Accuracy: *98.25*
+* Number of epochs: __4__
+* Time spent: __40 seconds__
+* Training Data Accuracy: __98.57__
+* Test Data Accuracy: __98.25__
 
 ## Simple
-* Number of epochs: *4*
-* Time spent: *37.5 seconds*
-* Training Data Accuracy: *96.74*
-* Test Data Accuracy: *96.13*
+* Number of epochs: __4__
+* Time spent: __37.5 seconds__
+* Training Data Accuracy: __96.74__
+* Test Data Accuracy: __96.13__
 
