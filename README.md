@@ -8,6 +8,8 @@ This project holds 2 main files
 
 __CNN__ A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes, and categories
 
+Here is the Formula for a Convolutional Neural Network
+
 ![Formula for CNN](https://user-images.githubusercontent.com/77110462/228610008-5dadf4ff-4924-4b5c-ab06-3e08a82b1423.png)
 
 
